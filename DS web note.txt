@@ -1,0 +1,60 @@
+web architecture
+
+In web architecture it discuss how web servers are communicating with client applications.
+Web server is a software and hard ware which contain number of web files (HTML files) works on top of HTTP protocol.
+Main responsibility of web server is to response and reply to the client request. 
+Client request will store, process, inside the web server and deliver the response back to the client application. 
+web servers can be catergorized into 2 catorgarize 
+1.static- static servers are based on file systems hence contents is not being changed from user to user.
+2.dynamic- dynamic servers are based on servlets which means content could be changed from user to user.  
+
+web applications
+
+internet- network of networks, inter-networking 
+intranet-network inside organizations.
+extranet-
+
+Applications which work on top of web browsers with the help of internet, intranet and extranet are known as web applications.
+Static and dynamic web applications are taking the content from the server and display them on client side using web browser.
+
+
+Server side technologies.
+
+server side scripting
+Once the application is hosted in a server, developers can do the modifications from the sever side without affecting clients/users.
+Which means real time updates/customizations are possible with server side scripting.
+
+Hyper Text Transcript Protocol(HTTP)
+
+HTTP is a underlying protocol which works in web applications as a application level protocol and this protocol will decide how messages are formatted and transmitted between client server systems as requests and responses. 
+
+Cyber security
+cyber security threats
+In distributed web applications there is a possiblity to get attacked by unautorized people and organizations.
+when deploying a distributed application developers need to be prasised on cyber security threats.
+
+**if the system get attacked by unautorized person there is a vulnurability they could attack the entire system. 
+
+Malware 
+*malware is a mlasious software which get downloadd to the system computer without knowing by the user.
+*malwares are capable of making system changes to work your computer in a different way.
+example: viruses, worms, spyware, ransom ware.
+
+Phishing attacks
+
+*emails will send to the client server systems which look like a legitimate email where users will encourage to click on the links in the email.
+*once the link has being clicked either malware sensitive request will send to the user.
+
+
+spear phishing attacks
+*in this attack it focus on server side users such as administrators, super admins where they can get full authorization to the system.
+
+Man in the middle attack
+*an unauthorized person will broke into the network where the messages are being transmitted between client and server.
+*that person can modify , re-generate all communication which happens over the network.
+ 
+Denial of service attack(DDoS)
+
+*in DDoS number of false requests will be created by the attacker and will sent to the server.
+*since there are number of unexpected requests server is not capable of responding to all of them. 
+*as a result of that massive traffic will create in server side and buffer will overflow due to that legitimate clients wont be able to get the responses.
